@@ -14,7 +14,7 @@ Está e´a camada de apresentação do sistema que foi feita em html css e java 
 
 ---
 ## Apis consumidas
-![Diagrama da Aplicação](./img/api_api_servico.jpg)
+![Diagrama da Aplicação](./img/api_servico.jpg)
 
 ---
 ## Como executar através do Docker
